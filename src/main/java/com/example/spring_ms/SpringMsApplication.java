@@ -6,6 +6,8 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 @SpringBootApplication
 public class SpringMsApplication {
 
+//El poderoso
+
 	public static void main(String[] args) {
 		SpringApplication.run(SpringMsApplication.class, args);
 	}
